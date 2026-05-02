@@ -1,21 +1,78 @@
-<<<<<<< HEAD
-# React + Vite
+# 🎓 ScholarLine
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ScholarLine is a modern academic assistance platform designed to help students with assignments, projects, research papers, and thesis writing.
+Built with a clean UI and fast performance, it provides a smooth and professional user experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Website
 
-## React Compiler
+👉 https://scholar-line.com
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Key Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# scholarline
-ScholarLine is a modern academic assistance web platform built with React and Tailwind CSS. It helps students get expert support for projects, assignments, research papers, and documentation.
->>>>>>> 47c116cd2943b43fad8a33d25864e3f8a37a0f4c
+* 📱 Fully responsive modern UI (mobile + desktop)
+* 📝 Contact form with Netlify backend integration
+* 💬 WhatsApp direct chat support
+* ⚡ Fast performance with Vite
+* 🎨 Smooth animations using Framer Motion
+* 🔒 Secure website with custom domain & SSL
+* 🔍 SEO optimized (meta tags, description, preview)
+
+---
+
+## 🛠️ Tech Stack
+
+* **Frontend:** React (Vite)
+* **Styling:** Tailwind CSS
+* **Routing:** React Router DOM
+* **Deployment:** Netlify
+* **Forms Handling:** Netlify Forms
+
+---
+
+## 📌 Project Purpose
+
+The goal of ScholarLine is to create a simple, reliable, and professional platform where students can easily connect and get academic help without hassle.
+
+---
+
+## 📦 Installation & Setup
+
+```bash
+git clone https://github.com/Satish1212u/scholarline.git
+cd scholarline
+npm install
+npm run dev
+```
+
+---
+
+## ⚙️ Build for Production
+
+```bash
+npm run build
+```
+
+---
+
+## 👨‍💻 Author
+
+**Satish Gupta**
+
+---
+
+## 🌟 Future Improvements
+
+* User dashboard
+* Payment integration
+* Admin panel
+* AI-based academic assistance
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a star ⭐ on GitHub.
